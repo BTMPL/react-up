@@ -1,6 +1,6 @@
 **React-UP**
 
-This is a basic staret boilerplate ment for quick proof-of-concept style work.
+This is a basic starter boilerplate ment for quick proof-of-concept style work.
 
 Only things included in the package are:
 
